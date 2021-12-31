@@ -7,6 +7,7 @@ Clock app written entirely in Javascript, HTML and CSS.
 Link: https://ratzushca.github.io/clock-app/Index.html
 
 
+<img width="1403" alt="Screen Shot 2021-12-30 at 11 27 35 PM" src="https://user-images.githubusercontent.com/93014061/147809751-34581d27-8036-4a86-91c8-2304b2fe1d41.png">
 
 
 Instructions: The app displays the present live time, day, month and year.
