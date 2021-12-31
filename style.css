@@ -1,0 +1,36 @@
+
+body{
+    background-color:grey;
+}
+
+p {
+    
+    font-family: monospace;
+    text-align: center;
+    font-size: 70px;
+    color: honeydew;
+    margin-top: 100px;
+}
+
+.container{
+    height: 200px;
+    width: 100%;
+   
+
+}
+
+.date-year{
+    text-align: center;
+    color: honeydew;
+    font-family: monospace;
+    font-size: 50px;
+}
+
+.time{
+    text-align: center;
+    font-size: 100px;
+    /* font-weight: heavy; */
+    color: honeydew;
+    font-family: monospace;
+   
+}
